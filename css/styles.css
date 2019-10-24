@@ -1,0 +1,35 @@
+#rip1{
+  width: 400px;
+  height: 400px;
+}
+#rip2{
+  width: 400px;
+  height: 400px;
+}
+#rip3{
+  width: 400px;
+  height: 400px;
+}
+.riderip1{
+  display: none;
+}
+.riderip2{
+  display: none;
+}
+.riderip3{
+  display: none;
+}
+.coverphot{
+  margin-left: 15%;
+}
+body{
+  background: radial-gradient(pink, yellow, lightpink, purple);
+background-attachment: fixed;
+}
+.well{
+  background-color: green;
+  color: orange;
+}
+.jumbotron{
+  background-color: orange;
+}
